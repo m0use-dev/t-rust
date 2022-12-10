@@ -13,19 +13,19 @@ export PATH="$HOME/.cargo/bin:$PATH"
 ```
 
 ### バージョン確認
-```
+```sh
 rustc -V
 cargo -V
 rustup -V
 ```
 
 ### コンパイル
-```
+```sh
 rustc index.rs
 ```
 
 ### 実行
-```
+```sh
 ./index
 ```
 
